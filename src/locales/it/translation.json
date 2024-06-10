@@ -1,0 +1,114 @@
+{
+    "nav": {
+      "home": "Home",
+      "about": "Chi Sono",
+      "works": "Lavori",
+      "contact": "Contattami",
+      "caseStudies": "Case Studies"
+    },
+    "home": {
+      "greeting": "Ciao, il mio nome è ",
+      "presentation": "Sono un ",
+      "description1": "Sono uno sviluppatore web junior con esperienza di 4 anni. ",
+      "description2": "La mia specializzazione è nel creare e progettare siti web, ",
+      "description3": "il Graphic Design e altro...",
+      "button": "Scarica CV"
+    },
+    "works": {
+      "work": "Lavori",
+      "closebutton": "Chiudi",
+      "collaborators": "Collaboratori",
+      "tools": "Strumenti",
+      "description": "Descrizione",
+      "work1": {  
+        "title": "Progetto A",
+        "description": "Descrizione del progetto A...",
+        "longdescription": "Descrizione lunga del Progetto A"
+      },
+      "work2": {
+        "title": "Progetto B",
+        "description": "Descrizione del progetto B...",
+        "longdescription": "Descrizione lunga del Progetto B"
+      },
+      "work3": {
+        "title": "Progetto C",
+        "description": "Descrizione del progetto C...",
+        "longdescription": "Descrizione lunga del Progetto C"
+      }
+    },
+    "cs": {
+      "cs": "casestudy",
+      "collaborators": "Collaboratori",
+      "tools": "Strumenti",
+      "description": "Descrizione",
+      "cs1": {
+        "title": "Progetto A",
+        "description": "Descrizione del progetto A...",
+        "longdescription": "Descrizione lunga del Progetto A"
+      },
+      "cs2": {
+        "title": "Progetto B",
+        "description": "Descrizione del progetto B...",
+        "longdescription": "Descrizione lunga del Progetto A"
+      }
+    },
+    "contact": {
+      "question": "Hai Qualche Domanda?",
+      "service": "SONO AL TUO SERVIZIO",
+      "linkedin": "Profilo LinkedIn",
+      "phone": "Numero Telofonico",
+      "site": "Sito Web"
+    },
+    "terminal": {
+      "terminal": "Terminale",
+      "closebutton": "Chiudi",
+      "loading": "Caricamento terminale...",
+      "type": "Scrivi il nome della pagina: home, chi sono, case studies, lavori, contattami"
+    },
+    "app": {
+      "terminal": "Naviga con il terminale"
+    },
+    "about": {
+      "title": "Chi Sono",
+      "presentation": "Sono Niccolò Maffioli e sono un ",
+      "firstp": "Sono nato a Milano il 14 dicembre 2000. Fin da bambino, sono sempre stato attratto dal mondo digitale. I miei hobby spaziano principalmente dagli anime ai film (soprattutto fantasy e fantascientifici), ai videogame e alla musica.",
+      "secondp": "Durante il mio percorso scolastico e personale, ho affrontato una malattia (epilessia), che ha comportato molte difficoltà. Paradossalmente, vado molto fiero di questa esperienza, perché dopo dieci lunghi anni sono riuscito a guarire quasi del tutto.",
+      "thirthp": "Dopo il liceo, mi sono imbattuto nel codice web più volte e ne sono rimasto affascinato. Sono rimasto colpito da ciò che una piccola stringa di codice potesse realizzare. Da allora, ho seguito con determinazione il percorso verso la figura professionale di Web Designer e Web Developer Front End, commettendo errori ma imparando sempre di più.",
+      "fourthp": "Ho frequentato per due anni l'indirizzo di Web Design e successivamente per altri due anni l'indirizzo di Graphic Design presso l'accademia Mohole di Milano. Oltre al mondo digitale, ho passioni per la storia, il disegno, i manga e lo sport.",
+      "info": {
+        "title": {
+          "birthday": "Compleanno",
+          "site": "Sito Web",
+          "country": "Paese",
+          "city": "Città",
+          "age": "Età",
+          "phone": "Cellulare"
+        },
+        "birthday": "14 dic 2000",
+        "country": "Italia",
+        "city": "Milano",
+        "freelance": "Non disponibile"
+      },
+      "education": {
+        "education": "Formazione",
+        "first": {
+          "type": "Certificato in Graphic Design",
+          "description": "Lorem ipsum",
+          "grade": "Voto finale: --"
+        },
+        "second": {
+          "type": "Certificato in Web Design",
+          "description": "Lorem ipsum",
+          "grade": "Voto finale: 25"
+        },
+        "thirth": {
+          "type": "High school",
+          "description": "Lorem ipsum"
+        }
+      },
+      "experience": {
+        "experience": "Esperienza lavorativa"
+      }
+    }
+}
+  

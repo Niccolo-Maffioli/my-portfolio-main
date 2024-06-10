@@ -1,0 +1,114 @@
+{
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "works": "Works",
+      "caseStudies": "Case Studies",
+      "contact": "Contact me"
+    },
+    "home": {
+      "greeting": "Hi, my name is ",
+      "presentation": "I'm a ",
+      "description1": "I'm a Junior Web Developer with experience for 4 years. ",
+      "description2": "My expertise is to create and Website Design, ",
+      "description3": "Graphic Design and more...",
+      "button": "Download CV"
+    },
+    "works": {
+      "work": "works",
+      "closebutton": "Close",
+      "collaborators": "Collaborators",
+      "tools": "Tools",
+      "description": "Description",
+      "work1": {
+        "title": "Project A",
+        "description": "Description project A...",
+        "longdescription": "longdescription project A"
+      },
+      "work2": {
+        "title": "Project B",
+        "description": "Description project B...",
+        "longdescription": "longdescription project B"
+      },
+      "work3": {
+        "title": "Project C",
+        "description": "Description project C...",
+        "longdescription": "longdescription project C"
+      }
+    },
+    "cs": {
+      "cs": "casestudy",
+      "collaborators": "Collaborators",
+      "tools": "Tools",
+      "description": "Description",
+      "cs1": {
+        "title": "Project A",
+        "description": "Description project A...",
+        "longdescription": "longdescription project A"
+      },
+      "cs2": {
+        "title": "Project B",
+        "description": "Description project B...",
+        "longdescription": "longdescription project B"
+      }
+    },
+    "contact": {
+      "question": "Have You Any Question?",
+      "service": "I'M AT YOUR SERVICE",
+      "linkedin": "LinkedIn Profile",
+      "phone": "Phone Number",
+      "site": "Web Site"
+    },
+    "terminal": {
+      "terminal": "Terminal",
+      "closebutton": "Close",
+      "loading": "Loading terminal...",
+      "type": "Type page name: home, about, case studies, works, contact me"
+    },
+    "app": {
+      "terminal": "Navigate with Terminal"
+    },
+    "about": {
+      "title": "About Me",
+      "presentation": "I'm Niccolò Maffioli and and I'm a ",
+      "firstp": "My name is Niccolò Maffioli, I am 23 years old and I am a Web Developer.",
+      "secondp": "In my training I applied in various sectors but only when I deepened my knowledge in the world of the web did I understand that DigitalMedia had to become my professional future as well.",
+      "thirthp": "I am moved by a great curiosity towards the development of codes that leads me to investigate and experiment with every aspect of languages ​​in the web environment, always trying to improve myself. So using HTML5 and CSS well I can also use Javascript and PHP (WordPress), recently I also got interested in Python.",
+      "fourthp": "My biggest passions range from videogames to music, from history to movies or anime and manga. In addition, the art of pencil drawing on paper or digital relaxes me and I find it very enjoyable.",
+      "info": {
+        "title": {
+          "birthday": "Birthday",
+          "site": "Website",
+          "country": "Country",
+          "city": "City",
+          "age": "Age",
+          "phone": "Phone"
+        },
+        "birthday": "14 dec 2000",
+        "country": "Italy",
+        "city": "Milan",
+        "freelance": "Not available"
+      },
+      "education": {
+        "education": "Education",
+        "first": {
+          "type": "Certificate in Graphic Design",
+          "description": "Lorem ipsum",
+          "grade": "Final Grade: --"
+        },
+        "second": {
+          "type": "Certificate in Web Design",
+          "description": "Lorem ipsum",
+          "grade": "Final Grade: 25"
+        },
+        "thirth": {
+          "type": "High school",
+          "description": "Lorem ipsum"
+        }
+      },
+      "experience": {
+        "experience": "Experience"
+      }
+    }
+}
+  
